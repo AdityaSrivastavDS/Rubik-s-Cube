@@ -2,6 +2,8 @@
 
 ![RubikCube](/assets/cube.jpg)
 
+### Hosted Link: https://app.netlify.com/sites/rubikcubes/
+
 ## Overview
 
 This project is a virtual Rubik's Cube created using JavaScript, HTML, and CSS. It allows users to interact with a 3x3x3 Rubik's Cube, track their solving time, and keep records of their solving statistics.
