@@ -2,7 +2,7 @@
 
 ![RubikCube](/assets/cube.jpg)
 
-### Hosted Link: https://app.netlify.com/sites/rubikcubes/
+### Hosted Link: https://rubikcubes.netlify.app/
 
 ## Overview
 
