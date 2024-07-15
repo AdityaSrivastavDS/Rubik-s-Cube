@@ -1,6 +1,6 @@
 # Rubik's Cube Project
 
-![RubikCube](/assets/rubik.jpg)
+![RubikCube](/assets/cube.jpg)
 
 ## Overview
 
